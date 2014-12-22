@@ -1,0 +1,12 @@
+{
+  "name": "praxigento/_mage_composer_mod_02",
+  "type": "magento-module",
+  "license": "BSD",
+  "description": "Magento module 02 for Composer tests.",
+  "authors": [
+    {
+      "name": "Alex Gusev",
+      "email": "flancer64@gmail.com"
+    }
+  ]
+}
